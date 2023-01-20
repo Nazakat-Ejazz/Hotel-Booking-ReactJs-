@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+
+
+## Introduction 
+This project was made to showcase my frontend skillset.It was designed using React Js , CSS3 , React-Router-Dom ,React-Range-Picker etc.This project has three pages one for home , one for hotels , and one of individual hotel page.They can be accessed on "/" , "/hotels" , "/hotels/:id" paths.In the next section of this project I will complete it by creating a backend using Node , Express and MongoDB , very soon. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
