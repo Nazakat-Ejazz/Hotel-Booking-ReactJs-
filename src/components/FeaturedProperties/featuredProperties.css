@@ -1,0 +1,52 @@
+.featProp {
+  width: 100%;
+  max-width: 1024px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.featPropItem {
+  flex: 1;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.featPropImg {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.featPropName {
+  font-weight: 600;
+}
+
+.featPropCity {
+  font-weight: 300;
+  font-size: 13px;
+}
+
+.featPropPrice {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.featPropRating > button {
+  color: white;
+  border: none;
+  font-weight: 700;
+  border-radius: 5px;
+  background-color: #003580;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+.featPropRating > span {
+  font-style: 13px;
+  font-style: italic;
+  font-weight: 500;
+}
